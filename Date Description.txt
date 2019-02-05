@@ -1,0 +1,36 @@
+Kole Norberg
+Project Title: Under the influence of connectives: How connective location and clause order interact in online processing and retention of text
+
+Data Description
+	The dataset is part of a larger study on how causal connectives (e.g. because) influence online processing and subsequent memory for brief expository passages. Within the passages, we varied the inclusion of a connective, the order of the clauses (cause-effect versus effect-cause), and the location of the connective (e.g. Because can occur at the beginning or in the middle of a sentence). After reading all of the passages, participants took a memory test asking them to select a correct causal inference and a correct detail for each passage, and also provided judgments of learning (JOLs) to reflect their level of confidence in each response.
+
+Hypothesis Inference memory
+1)	There will be no main effects for inference memory. The effects will be interactions between connective presence/location and the order of the clauses. These interactions are expected to reflect processing difficulty (being tested through eye-tracking and as established in previous literature) and its effect on memory for bridging inferences.
+2)	When a connective is absent, memory for inferences will be harmed by an effect-cause but not by a cause-effect ordering.
+3)	Sentences written in effect-cause order will see a benefit for inference memory from the inclusion of a connective regardless of location of the connective. 
+Hypothesis Detail memory
+1)	There will be main effects such that connective presence harms memory for details.
+2)	There will be a decline in memory for details when the connective occurs at the beginning of the sentence and the detail also occurs in the clause immediately following the connective.
+3)	When the connective is in the middle and the detail follows the connective, memory for the detail will be harmed.
+Hypothesis JOLs
+1)	There will be an interaction between JOLS and connective presence such that JOLs will be higher when a connective is present. 
+2)	Higher JOLs should reliably predict correct answers.
+
+Independent Variables
+Core variables:
+3x2 design
+1)	Connective Presence/Location – effects coded to compare presence of a connective to absence and then location of the connective (beginning versus middle) – Qualitative
+2)	Order of clauses – sum coded to compare cause-effect order to effect-cause order – Qualitative
+Counterbalancing variable:
+1)	Location of the detail – sum coded – Used as a counterbalancing measure – Qualitative 
+
+Dependent variables
+1)	Inference memory: Binomial – coded as correct (1) or incorrect (0) – Qualitative
+2)	Detail memory: Binomial – coded as correct (1) or incorrect (0) – Qualitative
+3)	Log JOL: Scored by participants on continuous whole number scale as 50-100, but log taken to create a continuous variable – Quantitative 
+
+Observations
+	Prospective power was measured by simulating a population with effect sizes collected from the pilot and setting a threshold of finding the effect in 80% of samples. The power analysis suggested 84 participants would be required to detect the effect if it is true. As there are 60 questions concerning inference, 60 concerning details, and matching JOLs for each question, there will be 5040 observations for each DV (splitting JOLs into two DVs by type of memory). 
+
+Accessibility
+	I anticipate being done collecting in March, but it could take into mid-March to get all 84.
