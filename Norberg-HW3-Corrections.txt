@@ -1,0 +1,24 @@
+1) correct
+2) I have a type where I forgot to put the 2 in front of the beta_0 in the second step.
+3) I made an error by apply beta_q to the covariate which messed up everything in my algebra. I can see more clearly now how to get to the answer.
+4) correct
+5) correct
+4) correct except I didn't provide both versions of the model and I didn't provide the level of detail you did in the explanation. I couched it in what it means in terms of variance explained rather than what larger and smaller numbers mean for that.
+5a) This one confused me. I said that for IQ and GPA, females earn more on average than males. I understood that iii was correct, but I also thought ii was correct. However, as I reflect on the wording, I guess it is true for lower values but not for higher, so it's not true for any fixed value of IQ and GPA and that is what makes it incorrect.
+5b) Correct
+5c) Correct
+6) I left out the violation of the assumption of independence
+7a) I misunderstood what you were looking for in this question. I thought your answer was more the definition of random effects and explained how the assumption of normality differs in that the residuals are expected to be normally distributed.
+7b) I didn't include the bit about adding a penalty for low values
+7c) correct
+8a) Correct
+8b) correct
+8c) I didn't get the same effect size for the size variable because  I only included the random intercept and not the random slope.
+8d) My model had a different AIC value without the random slope. I had a similar but slightly different conclusion as a result, but had I gotten the same AIC value I would have come to the conclusion you listed.
+9a) Correct
+9b) Correct
+9c,i,ii,iii) Correct
+9d) Correct
+9e) Correct
+10 all) Correct
+11 all) Correct, except I didn't plot the population data
