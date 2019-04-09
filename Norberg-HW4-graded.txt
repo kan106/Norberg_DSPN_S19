@@ -1,0 +1,19 @@
+1) correct 
+
+2) I left out a description of the flexibility/bias tradeoff for Logistic regression and
+for LDA, I did not mention that flexibility is related to the variance. Instead, I focused on the number of dimensions, which appears to be incorrect.
+
+3) correct
+
+4) correct
+
+5) a. I saw that volume was not normally distributed but did not mention the relationship it has with year.
+b. correct
+c. correct 
+d. correct
+e. I forgot to choose but I saw the similarity.
+
+6) a. correct
+b. I should have created a correlation matrix. I used ggplots which stopped me from seeing some of the anti-correlations
+c. correct
+d-g. I used different variable and so came up with different answers, but ran the code similarly and used similar rational. 
